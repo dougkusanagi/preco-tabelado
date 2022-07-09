@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  -webkit-print-color-adjust: exact !important; /* Chrome, Safari, Edge */
+}
